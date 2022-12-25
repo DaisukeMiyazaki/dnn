@@ -9,6 +9,7 @@ torch = "*"
 matplotlib = "*"
 jupyter = "*"
 jupytext = "*"
+ipykernel = "*"
 
 [dev-packages]
 pytest = "*"
